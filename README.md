@@ -21,8 +21,8 @@ Check out the live demo: [Animating Cookie Banner Demo](https://github.com/papag
 ### Screenshots
 ![Preview 1](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie1.png)
 ![Preview 2](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie2.png)
-![Preview 3](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie3.png)
 ![Preview 4](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie4.png)
+![Preview 3](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie3.png)
 
 ---
 
