@@ -1,13 +1,12 @@
 # Animating Cookie Banner
 
-An engaging, interactive cookie banner with smooth cookie animations effects and modern styling to enhance user experience while complying with cookie consent regulations.
- 
+An engaging, interactive cookie banner with smooth cookie animation effects and modern styling to enhance user experience while complying with cookie consent regulations.
 
 ---
 
 ## Features
 
-- **Interactive Design**: Cookie crack-pop effect when interacting with any of the action Buttons, including hover animations for enhanced UX.
+- **Interactive Design**: Cookie crack-pop effect when interacting with action buttons, including hover animations for enhanced UX.
 - **Smooth Transitions**: Customizable transitions and animations for hover effects.
 - **Responsive Layout**: Optimized for different screen sizes and devices.
 - **Easy Customization**: Modify colors, text, and animation effects with CSS variables.
@@ -17,14 +16,13 @@ An engaging, interactive cookie banner with smooth cookie animations effects and
 
 ## Demo
 
-Check out the live demo: 
-[![Project Preview](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie1.png)](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookievideo.mp4) 
+Check out the live demo: [Animating Cookie Banner Demo](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookievideo.mp4)
 
-![Project Preview](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie2.png)
-
-![Project Preview](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie3.png)
-
-![Project Preview](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie4.png)
+### Screenshots
+![Preview 1](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie1.png)
+![Preview 2](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie2.png)
+![Preview 3](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie3.png)
+![Preview 4](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie4.png)
 
 ---
 
@@ -39,7 +37,6 @@ Check out the live demo:
 ## Installation
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/papaguycodes/animating-cookie-banner.git
 
