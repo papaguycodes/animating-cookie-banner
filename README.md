@@ -16,7 +16,7 @@ An engaging, interactive cookie banner with smooth cookie animation effects and 
 
 ## Demo
 
-Check out the live demo: [Animating Cookie Banner Demo](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookievideo.mp4)
+Check out the live demo: [Animating Cookie Banner Demo](https://vimeo.com/1037026829)
 
 ### Screenshots
 ![Preview 1](https://github.com/papaguycodes/animating-cookie-banner/blob/main/demo/cookie1.png)
